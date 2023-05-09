@@ -1,1 +1,1 @@
-This repo hosts ~30 old flash games, with HTML files that work for all of them to play them on your own device.
+This repo hosts a bunch of old flash games that work in Actionscript 2. Actionscript 3 will be added when Ruffle compatiblilty allows for such.
