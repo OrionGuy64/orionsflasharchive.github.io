@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: Bugs or Issues
+about: Create a report to help us improve the website, or if you find dangerous bugs or issues with our games.
+title: 'Bugs or Issues'
+labels: 'Bugs'
 assignees: ''
 
 ---
