@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+name: Feature or Game Requests
+about: Suggest an idea for the website, or give us some reccomendations of games we should add to Orion´s Flash Archive.
+title: 'Feature or Game Requests'
+labels: 'Feature/Game Request'
 assignees: ''
 
 ---
