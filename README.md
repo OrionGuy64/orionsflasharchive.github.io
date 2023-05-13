@@ -17,7 +17,6 @@
 ## Table of contents
 
 - [Bugs and feature requests](#bugs-and-feature-requests)
-- [Contributing](#contributing)
 - [Creators](#creators)
 - [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
@@ -40,6 +39,6 @@ Thanks to Ruffle for the emulation side of the website. If you would like to try
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
+Copyright released under the public domain. Code released under the [WTFPL Licence](https://reponame/blob/master/LICENSE).
 
-Enjoy :metal:
+Enjoy 👍
