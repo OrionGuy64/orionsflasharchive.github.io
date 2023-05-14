@@ -39,6 +39,6 @@ Thanks to Ruffle for the emulation side of the website. If you would like to try
 
 ## Copyright and license
 
-Copyright released under the public domain. Code released under the Unlicence.
+Copyright released under the public domain. Code released under the [Unlicence](https://github.com/OrionGuy64/flash-website/blob/main/LICENSE).
 
 Enjoy 👍
