@@ -24,12 +24,12 @@
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://flash-website/main/master/CONTRIBUTING.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://reponame/issues/new).
+Have a bug or a feature request? Open it in [Issues] (https://github.com/OrionGuy64/flash-website/issues/new/choose)
 
 
 ## Creators
 
-**Creator 1**
+**OrionGuy64**
 
 - <https://github.com/OrionGuy64>
 
@@ -39,6 +39,6 @@ Thanks to Ruffle for the emulation side of the website. If you would like to try
 
 ## Copyright and license
 
-Copyright released under the public domain. Code released under the [WTFPL Licence](https://reponame/blob/master/LICENSE).
+Copyright released under the public domain. Code released under the Unlicence.
 
 Enjoy 👍
