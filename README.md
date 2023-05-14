@@ -24,7 +24,7 @@
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Open it in [Issues] (https://github.com/OrionGuy64/flash-website/issues/new/choose)
+Have a bug or a feature request? Open it in https://github.com/OrionGuy64/flash-website/issues/new/choose
 
 
 ## Creators
@@ -35,7 +35,7 @@ Have a bug or a feature request? Open it in [Issues] (https://github.com/OrionGu
 
 ## Thanks
 
-Thanks to Ruffle for the emulation side of the website. If you would like to try out Flash games offline, check out their [website] (https://ruffle.rs/)
+Thanks to Ruffle for the emulation side of the website. If you would like to try out Flash games offline, check out their website (https://ruffle.rs/)
 
 ## Copyright and license
 
