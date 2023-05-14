@@ -1,6 +1,5 @@
 <p align="center">
     <a href="https://imgbox.io/ib/NY7U7XkhVl"><img src="https://imgbox.io/ib/NY7U7XkhVl.png" alt="NY7U7XkhVl"/></a>
-  </a>
 
   <h3 align="center">Orion´s Flash Archive </h3>
 
