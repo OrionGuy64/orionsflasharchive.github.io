@@ -7,7 +7,7 @@
   <p align="center">
     A website dedicated to bringing back the most famous Flash games from the world wide web using Ruffle
     <br>
-    <a href=https://github.com/OrionGuy64/flash-website/issues/new?assignees=&labels=Bugs&projects=&template=bug_report.md&title=Bugs+or+Issues">Report bug</a>
+    <a href="https://github.com/OrionGuy64/flash-website/issues/new?assignees=&labels=Bugs&projects=&template=bug_report.md&title=Bugs+or+Issues">Report bug</a>
     ·
     <a href="https://github.com/OrionGuy64/flash-website/issues/new?assignees=&labels=Feature%2FGame+Request&projects=&template=feature_request.md&title=Feature+or+Game+Requests">Request feature</a>
   </p>
