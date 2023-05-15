@@ -5,40 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-
-    <title> Orion´s Adobe Archive</title>
-</head>
-<body>
-    <!-- navbar As a heading -->
-    <nav class="navbar navbar-light bg-light">
-        <a href="index.html"><span class="navbar-brand mb-0 h1">Newgrounds Rumble</span></a>        
-    </nav>
-
-    <a href="index.html">
-        <button type="button" class="btn btn-primary btn-lg ml-5 mt-5">Back</button>
-    </a>
-
-    <!-- grid layout -->
-        <!-- grid layout -->
-    <div class="container mt-5">
-        <!-- row one -->
-        <div class="row">
-            <div class="col-sm">
-             <h2 class="text-center" >Newgrounds Rumble</h2>
-            </div>
-        </div>
-
-        <!-- row two -->
-        <div class="row mx-auto">
-            <div class="col-sm ">
-                <object width="600" height="400">
-                    <param name="movie" value="https://orionguy64.github.io/orionsflasharchive.github.io/games/newgroundsrumble.swf">
-                    <embed src="https://orionguy64.github.io/orionsflasharchive.github.io/games/newgroundsrumble.swf" width="600" height="400">
-                    </embed>
-                    </object>
-            <script src="path/to/ruffle/ruffle.js"></script>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+    <script>
+        window.RufflePlayer = window.RufflePlayer || {};
+    
+        window.addEventListener("DOMContentLoaded", () => {
+            let ruffle = window.RufflePlayer.newest();
+            let player = ruffle.createPlayer();
+            let container = document.getElementById("container");
+            container.appendChild(player);
+            player.load("movie.swf");
+        });
+    </script>
+    <script src="path/to/ruffle/ruffle.js"></script>
