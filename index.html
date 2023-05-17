@@ -1,22 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-  <meta charset="UTF-8">
-  <head>
-    <title>Ruffle Dynamic Player</title>
-    <style>
-      * {
-        margin: 0;
-      }
-      :root, body, object {
-        width: 100%;
-        height: 100%;
-        overflow: hidden;
-      }
-    </style>
-    <script src="/ruffle-testing/configure-ruffle.js"> </script>
-    <script src="/ruffle-testing/@ruffle-rs/ruffle/ruffle.js"> </script>
-    <script src="/ruffle-testing/run-ruffle.js"> </script>
-  </head>
-  <body>
-  </body>
-</html>
+<script>
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.addEventListener("load", (event) => {
+        const ruffle = window.RufflePlayer.newest();
+        const player = ruffle.createPlayer();
+        const container = document.getElementById("container");
+        container.appendChild(player);
+        player.load("games/newgroundsrumble.swf");
+    });
+</script>
+<script src="ruffle-testing/ruffle/ruffle.js"></script>
