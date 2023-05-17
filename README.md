@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://imgbox.io/ib/NY7U7XkhVl"><img src="https://imgbox.io/ib/NY7U7XkhVl.png" alt="NY7U7XkhVl"/>
+    <img src="https://imgbox.io/ib/NY7U7XkhVl.png" alt="NY7U7XkhVl"/>
 
-  <h3 align="center">Orion´s Flash Archive </h3>
+  <h3 align="center"> Orion´s Flash Archive </h3>
 
   <p align="center">
-    A website dedicated to bringing back the most famous Flash games from the world wide web using Ruffle.
-    <br>
+  A website dedicated to bringing back the most famous Flash games from the world wide web using Ruffle. 
+<br>
     <a href="https://github.com/OrionGuy64/flash-website/issues/new?assignees=&labels=Bugs&projects=&template=bug_report.md&title=Bugs+or+Issues">Report bug</a>
     ·
     <a href="https://github.com/OrionGuy64/flash-website/issues/new?assignees=&labels=Feature%2FGame+Request&projects=&template=feature_request.md&title=Feature+or+Game+Requests">Request feature</a>

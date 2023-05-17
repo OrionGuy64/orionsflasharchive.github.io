@@ -1,11 +1,26 @@
-<script>
-    window.RufflePlayer = window.RufflePlayer || {};
-    window.addEventListener("load", (event) => {
-        const ruffle = window.RufflePlayer.newest();
-        const player = ruffle.createPlayer();
-        const container = document.getElementById("container");
-        container.appendChild(player);
-        player.load("games/newgroundsrumble.swf");
-    });
-</script>
-<script src="ruffle-testing/ruffle/ruffle.js"></script>
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset='utf8'>
+    </head>
+    <body>
+        <div id='ruffle'></div>
+        <script src='https://e9x.github.io/ruffle-example/ruffle.js'></script>
+        <script>
+var swfobject = {};
+
+swfobject.embedSWF = function(url, cont, width, height){
+    var ruffle = window.RufflePlayer.newest(),
+        player = Object.assign(document.getElementById(cont).appendChild(ruffle.createPlayer()), {
+            width: width,
+            height: height,
+            style: 'width: ' + width + 'px; height: ' + height + 'px',
+        });
+    
+    player.load({ url: url });
+}
+
+swfobject.embedSWF('https://orionguy64.github.io/orionsflasharchive.github.io/games/newgroundsrumble.swf', 'ruffle', 500, 500);
+        </script>
+    </body>
+</html>
